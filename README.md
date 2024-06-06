@@ -1,5 +1,5 @@
-Intelligent Data Analysis Lab. in Dankook University
- Undergraduate researcher							       Dec.2022-Dec.2023
+Intelligent Data Analysis Lab. in Dankook University \n
+Undergraduate researcher							       Dec.2022-Dec.2023
 >	Data science research based on process mining and image processing 
 >	Participated in research paper seminars
 
